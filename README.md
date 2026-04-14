@@ -50,7 +50,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🔢 CNN Digit Recognition App](https://github.com/Mdshafeeulla/cnn-digit-recognition-app) | Streamlit web app that predicts handwritten digits in real-time using a PyTorch CNN trained on MNIST | PyTorch, Streamlit, MNIST |
+| [🔢 RAG-JD Analyzer]((https://github.com/Mdshafeeulla/rag-jd-analyzer.git)) | An rag based llm which tells wheather required skills are there according to the JD and also shows what are the skills that need to be learned | OLLAMA Mistral, RAG, Python |
 | [🚗 Vehicle Count using YOLO](https://github.com/Mdshafeeulla/Vehicle-Count-using-YOLO) | Real-time vehicle detection and counting using YOLOv5 for traffic monitoring | YOLO, OpenCV, Python |
 | [💰 Taxi Fare Prediction](https://github.com/Mdshafeeulla/Taxi-fare-price-Predicaton) | End-to-end regression model to predict taxi fares with feature engineering | PyTorch, Regression |
 | [📊 Sales & Customer Dashboard](https://github.com/Mdshafeeulla/Sales-and-Customer-Dashboard) | Interactive dashboard for sales analytics and customer behaviour insights | Python, Data Viz |
